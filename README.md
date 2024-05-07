@@ -19,9 +19,9 @@ A Frontend Software Engineer and a budding AWS cloud Practitioner from Accra, Gh
 
 <!--Here are some ideas to get you started: -->
 
+<!-- - 👯 I’m looking to collaborate on ... Any Mobile or Full Stack Web development with Swift UI, React, Go and Django -->
 - 🔭 I’m currently working on ... Faky3me, a loan web app.
 - 🌱 I’m currently learning ... AWS cloud computing.
-<!-- - 👯 I’m looking to collaborate on ... Any Mobile or Full Stack Web development with Swift UI, React, Go and Django -->
 - 🤔 I’m looking for help with ... Redux.
 - 💬 Ask me about ... Anything related to NextJS, React, and Typescript.
 - 📫 How to reach me: ... [Twitter](https://twitter.com/mya_gwen), [Portfolio Website](https://myagwen.vercel.app/)
