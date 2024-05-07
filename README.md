@@ -1,16 +1,30 @@
+<!-- ![alt text](https://i.imgur.com/gGydeDF.jpg "Banner Image") -->
+
 ### Hi there 👋
 
-<!--
-**MyaGwen/MyaGwen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## My name is Wendy Edem Ahadome
+A Frontend Software Engineer and a budding AWS cloud Practitioner from Accra, Ghana. I write code to solve problems.
 
-Here are some ideas to get you started:
+📚 I consider myself a perpetual learner, constantly seeking new knowledge and skills. My passion lies in transforming exceptional designs into meaningful interfaces that are both simple and user-friendly.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+### Technical stack
+
+![](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) ![](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white) ![](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB) ![](https://img.shields.io/badge/Next--JS-1F262C?style=for-the-badge&logo=next.js&logoColor=white)
+
+![](https://img.shields.io/badge/Chakra-UI-319795?style=for-the-badge&logo=chakra-ui&logoColor=319795) ![](https://img.shields.io/badge/Tailwind_CSS-4EADC9?style=for-the-badge&logo=tailwind-css&logoColor=white) ![](https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white)
+
+![](https://img.shields.io/badge/Firebase-F7CC50?style=for-the-badge&logo=firebase&logoColor=white)
+
+
+<!--Here are some ideas to get you started: -->
+
+- 🔭 I’m currently working on ... Faky3me, a loan web app.
+- 🌱 I’m currently learning ... AWS cloud computing.
+<!-- - 👯 I’m looking to collaborate on ... Any Mobile or Full Stack Web development with Swift UI, React, Go and Django -->
+- 🤔 I’m looking for help with ... Redux.
+- 💬 Ask me about ... Anything related to NextJS, React, and Typescript.
+- 📫 How to reach me: ... [Twitter](https://twitter.com/mya_gwen), [Portfolio Website](https://myagwen.vercel.app/)
+- 😄 Pronouns: ... She/Her
+- ⚡ Fun fact: ... I have a great sense of humour and I'm always available to help.
+
