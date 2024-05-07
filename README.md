@@ -3,7 +3,7 @@
 ### Hi there 👋
 
 ## My name is Wendy Edem Ahadome
-A Frontend Software Engineer and a budding AWS cloud Practitioner from Accra, Ghana. I write code to solve problems.
+A Frontend Software Engineer and a budding AWS Cloud Practitioner from Accra, Ghana. I write code to solve problems.
 
 📚 I consider myself a perpetual learner, constantly seeking new knowledge and skills. My passion lies in transforming exceptional designs into meaningful interfaces that are both simple and user-friendly.
 
