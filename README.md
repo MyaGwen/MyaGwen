@@ -1,9 +1,7 @@
-<!-- ![alt text](https://i.imgur.com/gGydeDF.jpg "Banner Image") -->
-
 ### Hi there 👋
 
 ## My name is Wendy Edem Ahadome
-A Frontend Software Engineer and a budding AWS Cloud Practitioner from Accra, Ghana. I write code to solve problems.
+A Frontend Software Engineer and an AWS Cloud Practitioner from Accra, Ghana. I write code to solve problems.
 
 📚 I consider myself a perpetual learner, constantly seeking new knowledge and skills. My passion lies in transforming exceptional designs into meaningful interfaces that are both simple and user-friendly.
 
@@ -17,11 +15,8 @@ A Frontend Software Engineer and a budding AWS Cloud Practitioner from Accra, Gh
 ![](https://img.shields.io/badge/Firebase-F7CC50?style=for-the-badge&logo=firebase&logoColor=white)
 
 
-<!--Here are some ideas to get you started: -->
-
-<!-- - 👯 I’m looking to collaborate on ... Any Mobile or Full Stack Web development with Swift UI, React, Go and Django -->
-- 🔭 I’m currently working on ... Faky3me, a loan web app.
-- 🌱 I’m currently learning ... AWS cloud computing.
+- 🔭 I’m currently working on ... a construction company website.
+- 🌱 I’m currently learning ... Wordpress.
 - 🤔 I’m looking for help with ... Redux.
 - 💬 Ask me about ... Anything related to NextJS, React, and Typescript.
 - 📫 How to reach me: ... [Twitter](https://twitter.com/mya_gwen), [Portfolio Website](https://myagwen.vercel.app/)
